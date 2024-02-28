@@ -1,4 +1,4 @@
-# Multi-Trigger-AstroSplash-Digital-Display
+# Multi-Trigger 3 AstroSplash-Digital-Display
 Adds a digital display showing thhe delay timings, to the HiViz Timer-Trigger 3 and AstroSplash range of products
 
 If you have purchased one of the excellent HiViz kits, but have found it dificult and time consuming to set it up again to previously used settings,
