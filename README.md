@@ -12,4 +12,6 @@ Using just a few parts, Ardiono Nano, 2 line Line LCD, LCD acrylic case, 2 resis
 
 The digital display has been used with Trigger-Timer 3 and AstroSplash. It has not been tried with the newer Trigger-Timer 3+ however, there should be no reason it should not be fully compatible with them.
 
-This page is in it's early days, so keep checking back when the build details & parts list will be added.
+I contacted Hiviz four years ago & offered them this project (free) for them to either sell as a kit of parts or add to their web site for customers to build themselves, however, the response was not positive. As I have a few Git projects, thought I might as well release it into the world.
+
+If you do build it, I would be grateful for a few photos. 
